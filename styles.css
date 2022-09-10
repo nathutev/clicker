@@ -1,0 +1,52 @@
+body {
+  margin: 0%;
+  padding: 0%;
+}
+
+.container {
+  text-align: center;
+  align-items: center;
+  margin: 0% 0% 0% 0%;
+}
+
+.click {
+  align-items: center;
+  margin: 10% 0% 0% 0%;
+  color: lightgrey;
+  font-size: 1.5em;
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+  margin: 1% 0% 0% 0%;
+  font-family: 'Roboto', sans-serif;
+}
+
+#status {
+  text-align: center;
+  font-size: 2em;
+  margin: 1% 0% 1% 0%;
+  font-family: 'Roboto', sans-serif;
+}
+
+#amus1 {
+  user-select: none;
+}
+
+/*
+h1 {
+  -webkit-text-stroke: 3px black;
+  color: white;
+}
+*/
+
+.text {
+  font-size: 2em;
+  margin: 1% 0% 0% 0%;
+  font-family: 'Roboto', sans-serif;
+  color: rgb(104, 104, 104);
+  margin-bottom: 0%;
+}
